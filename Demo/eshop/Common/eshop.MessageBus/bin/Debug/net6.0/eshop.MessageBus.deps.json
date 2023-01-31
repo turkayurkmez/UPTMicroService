@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "eshop.MessageBus/1.0.0": {
+        "runtime": {
+          "eshop.MessageBus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eshop.MessageBus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

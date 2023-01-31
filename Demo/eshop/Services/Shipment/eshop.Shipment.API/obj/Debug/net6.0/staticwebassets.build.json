@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yLB+BhuuGnkdt7/cMIgNi1Ul44Vhik9AHqQHgxaHnVc=",
+  "Source": "eshop.Shipment.API",
+  "BasePath": "_content/eshop.Shipment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

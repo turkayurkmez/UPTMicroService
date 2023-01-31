@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\bin\Debug\net6.0\eshop.Catalog.Entities.deps.json
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\bin\Debug\net6.0\eshop.Catalog.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\bin\Debug\net6.0\eshop.Catalog.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\eshop.Catalog.Entities.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\eshop.Catalog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\eshop.Catalog.Entities.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\eshop.Catalog.Entities.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\eshop.Catalog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\eshop.Catalog.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\refint\eshop.Catalog.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\eshop.Catalog.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.Entities\obj\Debug\net6.0\ref\eshop.Catalog.Entities.dll

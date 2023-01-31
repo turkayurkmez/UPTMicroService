@@ -1,0 +1,39 @@
+services:
+  eshop.basket.api:
+    build:
+      context: C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop
+      dockerfile: Services/Basket/eshop.Basket.API/Dockerfile
+    depends_on:
+      rabbitmq:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      rabbitMqUrl: rabbitmq
+    image: eshopbasketapi
+    ports:
+    - target: 80
+  eshop.catalog.api:
+    build:
+      context: C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop
+      dockerfile: Services/Catalog/eshop.Catalog.API/Dockerfile
+    depends_on:
+      rabbitmq:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: eshopcatalogapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\turka\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\turka\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  rabbitmq:
+    image: rabbitmq:3.10-management
+    ports:
+    - published: 5672
+      target: 5672
+    - published: 15672
+      target: 15672
+version: '3.4'

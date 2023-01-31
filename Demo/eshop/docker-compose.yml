@@ -1,0 +1,34 @@
+version: '3.4'
+
+services:
+
+  rabbitmq:
+   image: rabbitmq:3.10-management
+   ports:
+    - "5672:5672"
+    - "15672:15672"
+
+  eshop.basket.api:
+    image: ${DOCKER_REGISTRY-}eshopbasketapi
+    build:
+      context: .
+      dockerfile: Services/Basket/eshop.Basket.API/Dockerfile
+    depends_on:
+     - rabbitmq
+
+  ehop.order.api:
+    image: ${DOCKER_REGISTRY-}ehoporderapi
+    build:
+      context: .
+      dockerfile: Services/Order/ehop.Order.API/Dockerfile
+    depends_on:
+     - rabbitmq
+
+  eshop.stock.api:
+    image: ${DOCKER_REGISTRY-}eshopstockapi
+    build:
+      context: .
+      dockerfile: Services/Stock/eshop.Stock.API/Dockerfile
+    depends_on:
+     - rabbitmq
+

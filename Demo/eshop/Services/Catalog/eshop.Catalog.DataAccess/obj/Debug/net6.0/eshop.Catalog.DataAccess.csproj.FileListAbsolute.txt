@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\bin\Debug\net6.0\eshop.Catalog.DataAccess.deps.json
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\bin\Debug\net6.0\eshop.Catalog.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\bin\Debug\net6.0\eshop.Catalog.DataAccess.pdb
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\bin\Debug\net6.0\eshop.Catalog.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\bin\Debug\net6.0\eshop.Catalog.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\eshop.Catalog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\eshop.Catalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\eshop.Catalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\eshop.Catalog.DataAccess.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\eshop.Catalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\eshop.Catalog.DataAccess.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\eshop.Catalog.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\refint\eshop.Catalog.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\eshop.Catalog.DataAccess.pdb
+C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop\Services\Catalog\eshop.Catalog.DataAccess\obj\Debug\net6.0\ref\eshop.Catalog.DataAccess.dll

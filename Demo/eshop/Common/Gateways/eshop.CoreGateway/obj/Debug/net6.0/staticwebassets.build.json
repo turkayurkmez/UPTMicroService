@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dDQoJoqlY84MLBCHdBh9Q3iHTT2sGdLZ/rzhEjH0JDY=",
+  "Source": "eshop.CoreGateway",
+  "BasePath": "_content/eshop.CoreGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

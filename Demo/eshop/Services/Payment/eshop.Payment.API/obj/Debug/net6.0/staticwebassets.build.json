@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SIWJ+gIhVLzZwYJnnR0c+9xMTXzXggLDIC+oXlRUslI=",
+  "Source": "eshop.Payment.API",
+  "BasePath": "_content/eshop.Payment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

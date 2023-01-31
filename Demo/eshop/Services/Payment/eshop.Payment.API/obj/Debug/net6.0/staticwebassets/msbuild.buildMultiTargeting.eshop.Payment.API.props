@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eshop.Payment.API.props" />
+</Project>

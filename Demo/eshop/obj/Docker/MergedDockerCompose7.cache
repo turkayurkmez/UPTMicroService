@@ -1,0 +1,33 @@
+services:
+  ehop.order.api:
+    build:
+      context: C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop
+      dockerfile: Services/Order/ehop.Order.API/Dockerfile
+    depends_on:
+      rabbitmq:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ehoporderapi
+    ports:
+    - target: 80
+  eshop.basket.api:
+    build:
+      context: C:\Users\turka\source\repos\Kurumsal\PayCore\Group 3\Demo\eshop
+      dockerfile: Services/Basket/eshop.Basket.API/Dockerfile
+    depends_on:
+      rabbitmq:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: eshopbasketapi
+    ports:
+    - target: 80
+  rabbitmq:
+    image: rabbitmq:3.10-management
+    ports:
+    - published: 5672
+      target: 5672
+    - published: 15672
+      target: 15672
+version: '3.4'

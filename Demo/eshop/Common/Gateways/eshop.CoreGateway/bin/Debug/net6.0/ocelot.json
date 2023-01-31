@@ -1,0 +1,43 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5058"
+  },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/paycore/catalog",
+      "UpstreamHttpMethod": [ "GET","POST" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5293
+        }
+      ],
+      "DownstreamPathTemplate": "/api/products"
+    },
+    {
+      "UpstreamPathTemplate": "/paycore/catalog/changeprice",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5293
+        }
+      ],
+      "DownstreamPathTemplate": "/api/products"
+    },
+    {
+      "UpstreamPathTemplate": "/paycore/order/{customerId}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5235
+        }
+      ],
+      "DownstreamPathTemplate": "/api/orders/{customerId}"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Protobuf.cs \
+obj\Debug\net6.0/ProtobufGrpc.cs: ../Services/Catalog/eshop.Catalog.API/Protos/protobuf.proto

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PD/gu+6yy4qBMhFFKtjCkpNIAcoOesywiZVgmNePjpM=",
+  "Source": "ehop.Order.API",
+  "BasePath": "_content/ehop.Order.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

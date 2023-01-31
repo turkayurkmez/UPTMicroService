@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "eshop.Catalog.API.Proto";
+
+service CatalogService {
+  rpc GetProducts (EmptyParameter) returns (ProductMessage);
+}
+
+
+message EmptyParameter{
+
+}
+message ProductMessage {
+  string name = 1;
+  double price=2;
+
+}
+

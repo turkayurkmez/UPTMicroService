@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qUT4zTHzMMwWP//C8obOBaMMjIvkc9iVWSPIELX6MWM=",
+  "Source": "eshop.Invoice.API",
+  "BasePath": "_content/eshop.Invoice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

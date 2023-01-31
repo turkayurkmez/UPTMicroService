@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ehop.Order.API.props" />
+</Project>
